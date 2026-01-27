@@ -1,93 +1,44 @@
+# TikTok Video Downloader (No Watermark)
 
+A free web tool to download TikTok videos without watermark in high quality.
 
-```markdown
-# 🚀 SnapSave Pro – TikTok Downloader (Without Watermark)
+## Features
+- Download TikTok videos without watermark
+- Supports HD quality
+- No registration required
+- Fast and easy to use
+- Mobile-friendly interface
+- Free forever
 
-A fast, free, and user-friendly web tool to download TikTok videos **without watermark** in high quality.
+## How to Use
+1. Copy TikTok video link from app
+2. Paste link in the input box
+3. Click "Download" button
+4. Choose video quality
+5. Save video to your device
 
-## ✨ Features
-- ✅ **No Watermark** – Download clean TikTok videos
-- ✅ **High Quality** – Supports HD downloads
-- ✅ **Fast & Free** – No registration, no limits
-- ✅ **Simple UI** – Paste link and download
-- ✅ **Multi-format** – MP4/MP3 options available
-- ✅ **Secure** – No data collection, privacy-friendly
-
-## 🛠️ How to Use
-1. **Copy** TikTok video URL
-2. **Paste** in the input box on website
-3. **Click** "Download" button
-4. **Choose** quality/format
-5. **Save** video to your device
-
-## 🌐 Live Demo
-👉 [https://snapsavepro.example.com](https://snapsavepro.example.com)
-
-## 🏗️ Tech Stack
-- **Backend**: Python (Flask)
-- **Frontend**: HTML, CSS, JavaScript
-- **APIs**: TikTok scraper integration
-- **Hosting**: VPS/Heroku/Render
-
-## 📁 Project Structure
-```
-├── app.py              # Flask application
-├── templates/          # HTML templates
-├── static/             # CSS, JS, assets
-├── requirements.txt    # Python dependencies
-└── README.md           # Documentation
-```
-
-## ⚙️ Installation (Self-Host)
-### 1. Clone repository
+## Installation
 ```bash
-git clone https://github.com/yourusername/SnapSave-Pro.git
-cd SnapSave-Pro
-```
+# Clone the repository
+git clone https://github.com/yourusername/tiktok-downloader.git
 
-### 2. Install dependencies
-```bash
+# Install requirements
 pip install -r requirements.txt
-```
 
-### 3. Run the app
-```bash
+# Run the app
 python app.py
 ```
 
-### 4. Open in browser
-Visit: `http://localhost:5000`
+## Technologies Used
+- Python (Backend)
+- HTML/CSS/JavaScript (Frontend)
+- Flask (Web framework)
 
-## 📊 Languages Used
-- Python 97.0%
-- HTML 1.7%
-- PowerShell 0.3%
-- JavaScript 0.2%
-- CSS 0.1%
-- C 0.1%
+## Disclaimer
+This tool is for personal use only. Respect creators' copyrights. We don't store any videos.
 
-## ⚠️ Disclaimer
-This tool is for **personal use only**. Respect content creators' rights. We do not store any videos.
+## Support
+For issues or questions, create an issue in this repository.
 
-## 🛡️ Legal
-This project is for educational purposes. Users are responsible for how they use downloaded content.
-
-## 🤝 Contributing
-Pull requests are welcome! Please open an issue first to discuss changes.
-
-## 📬 Contact
-For queries or support, open an issue on GitHub.
-
----
-**Enjoy clean TikTok downloads!** 🎬
-```
-
----
-
-### 🔧 **Extra Tips:**
-1. **SEO ke liye**: Description mai "TikTok download without watermark" zaroor likhein
-2. **Demo link** dal dein agar hosted hai
-3. **Disclaimer** important hai – copyright issues se bachne ke liye
-4. **Screenshots** bhi add kar sakte hain README mai
-
-Name final karne ke baad **repository ka name bhi update** kar lena! 🚀
+## License
+MIT License - Free to use and modify.
